@@ -1,0 +1,11 @@
+   ----------This is log file for my last 10 commands used----------
+  501  ls
+  502  cd linux_project
+  503  ls
+  504  history
+  505  man history
+  506   int write_history (const char *log.txt)
+  507   int write_history (log.txt)
+  508  int write_history (log.txt)
+  509  int write_history log.txt
+  510  history > log.txt

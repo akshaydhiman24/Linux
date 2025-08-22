@@ -1,0 +1,28 @@
+----------Here are the top 5 Linux commands used---------- 
+1. ls : 
+List command. This command when used provides output with name of all 
+the files and folders available in the directory. When -l option is used 
+along with ls command, a list of all files and folders along with file 
+permissions,users, group, other, date of modificaiton/creating, file 
+size etc is shown. Further, if -a option is used with this command, it 
+prints all the hidden files and folders along with rest of the files.
+
+2. cat:
+Concatenate command. This command may be used for 2 purposes. As the name 
+suggests, it is used to concatenate the output of a file in another file or
+concatenates the output of files into a new file. Futher, it is also used to
+print the output of the file.
+
+3. mkdir: 
+Make Directory. This command when used, creates a new folder in the directory
+where used. 
+
+4. rmdir:
+Remove directory. Passing the directory namealong with this command deletes 
+that directory. It doesnot deletes that directory, if it already contains some
+data inside it. Directory has to be empty to get removed by this command.
+
+5. mv:
+Move command. This command is used to move files or folders from one directory
+to another. A path of the destination has to be passed along with the command
+for successful execution. This command is also used to rename files/folders.  
